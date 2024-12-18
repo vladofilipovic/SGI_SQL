@@ -1,3 +1,4 @@
 # SQLSGI
 
-Tekst i rjesenja vjezbi iz SQL na SGI.
+Tekst i rjesenja izabanih vjezbi iz SQL na SGI.
+
